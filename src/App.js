@@ -4,7 +4,7 @@ import video from "./video.mp4";
 
 function App() {
   return (
-    <div>
+    <div style={{backgroundColor:"black"}}>
       <div className="happy">İYİ Kİ DOĞDUN LAN ŞEREFSİZZZ</div>
       <div
         style={{
